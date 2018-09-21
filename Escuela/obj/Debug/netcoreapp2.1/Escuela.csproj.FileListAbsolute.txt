@@ -1,0 +1,11 @@
+/home/emmanuel/CosasDeC#/Escuela/bin/Debug/netcoreapp2.1/Escuela.deps.json
+/home/emmanuel/CosasDeC#/Escuela/bin/Debug/netcoreapp2.1/Escuela.runtimeconfig.json
+/home/emmanuel/CosasDeC#/Escuela/bin/Debug/netcoreapp2.1/Escuela.runtimeconfig.dev.json
+/home/emmanuel/CosasDeC#/Escuela/bin/Debug/netcoreapp2.1/Escuela.dll
+/home/emmanuel/CosasDeC#/Escuela/bin/Debug/netcoreapp2.1/Escuela.pdb
+/home/emmanuel/CosasDeC#/Escuela/obj/Debug/netcoreapp2.1/Escuela.csprojAssemblyReference.cache
+/home/emmanuel/CosasDeC#/Escuela/obj/Debug/netcoreapp2.1/Escuela.csproj.CoreCompileInputs.cache
+/home/emmanuel/CosasDeC#/Escuela/obj/Debug/netcoreapp2.1/Escuela.AssemblyInfoInputs.cache
+/home/emmanuel/CosasDeC#/Escuela/obj/Debug/netcoreapp2.1/Escuela.AssemblyInfo.cs
+/home/emmanuel/CosasDeC#/Escuela/obj/Debug/netcoreapp2.1/Escuela.dll
+/home/emmanuel/CosasDeC#/Escuela/obj/Debug/netcoreapp2.1/Escuela.pdb
