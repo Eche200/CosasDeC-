@@ -6,16 +6,30 @@ namespace EtapaUno
     {
         static void Main(string[] args)
         {
-           var instanciaDeEscuela = new Escuela();
+            var instanciaDeEscuela = new Escuela();
 
 
-           instanciaDeEscuela.Nombre = "San Cristobal";
-           instanciaDeEscuela.AnoDeCreacion = 1950;
-           instanciaDeEscuela.PaisDeLaEscuela = "Argentina";
+            instanciaDeEscuela.nombre = "San Cristobal";
+            instanciaDeEscuela.anoDeCreacion = 1950;
+            instanciaDeEscuela.paisDeLaEscuela = "Argentina";
+            instanciaDeEscuela.tipoDeEscuelas = TipoDeEscuelas.secundaria;
+            
 
-           Console.WriteLine("Nombre del colegio: " + instanciaDeEscuela.Nombre + "\nAño de creacion de la escuela: " + 
-           instanciaDeEscuela.AnoDeCreacion + "\nPais de origen de la escuela: " + instanciaDeEscuela.PaisDeLaEscuela);
+            var cursoUno = new Curso();
+            cursoUno.nombreDelCurso = "Programacion 1";
 
+            var cursoDos = new Curso();
+            cursoDos.nombreDelCurso = "Sistemas Operativos";
+
+            var cursoTres = new Curso();
+            cursoTres.nombreDelCurso = "Laboratorio 1";
+
+
+            Console.WriteLine(instanciaDeEscuela);
+            Console.WriteLine("===========================");
+            Console.WriteLine("\n" + cursoUno.nombreDelCurso + "=>" + cursoUno.identificadorDelCurso);
+            Console.WriteLine("\n" + cursoDos.nombreDelCurso + "=>" + cursoUno.identificadorDelCurso);
+            Console.WriteLine("\n" + cursoTres.nombreDelCurso + "=>" + cursoUno.identificadorDelCurso);
 
         }
     }
