@@ -687,17 +687,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/emmanuel/CosasDeC#/EtapaUno/EtapaUno.csproj",
+      "projectUniqueName": "/home/emmanuel/CosasDeCSharp/EtapaUno/EtapaUno.csproj",
       "projectName": "EtapaUno",
-      "projectPath": "/home/emmanuel/CosasDeC#/EtapaUno/EtapaUno.csproj",
+      "projectPath": "/home/emmanuel/CosasDeCSharp/EtapaUno/EtapaUno.csproj",
       "packagesPath": "/home/emmanuel/.nuget/packages/",
-      "outputPath": "/home/emmanuel/CosasDeC#/EtapaUno/obj/",
+      "outputPath": "/home/emmanuel/CosasDeCSharp/EtapaUno/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/emmanuel/.nuget/NuGet/NuGet.Config"
+        "/home/emmanuel/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -720,8 +720,9 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.0, )",
+            "version": "2.1",
             "autoReferenced": true
           }
         },

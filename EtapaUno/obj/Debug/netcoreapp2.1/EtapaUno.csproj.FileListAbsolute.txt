@@ -9,3 +9,14 @@
 /home/emmanuel/CosasDeC#/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.AssemblyInfo.cs
 /home/emmanuel/CosasDeC#/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.dll
 /home/emmanuel/CosasDeC#/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.pdb
+/home/emmanuel/CosasDeCSharp/EtapaUno/bin/Debug/netcoreapp2.1/EtapaUno.deps.json
+/home/emmanuel/CosasDeCSharp/EtapaUno/bin/Debug/netcoreapp2.1/EtapaUno.runtimeconfig.json
+/home/emmanuel/CosasDeCSharp/EtapaUno/bin/Debug/netcoreapp2.1/EtapaUno.runtimeconfig.dev.json
+/home/emmanuel/CosasDeCSharp/EtapaUno/bin/Debug/netcoreapp2.1/EtapaUno.dll
+/home/emmanuel/CosasDeCSharp/EtapaUno/bin/Debug/netcoreapp2.1/EtapaUno.pdb
+/home/emmanuel/CosasDeCSharp/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.csprojResolveAssemblyReference.cache
+/home/emmanuel/CosasDeCSharp/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.csproj.CoreCompileInputs.cache
+/home/emmanuel/CosasDeCSharp/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.AssemblyInfoInputs.cache
+/home/emmanuel/CosasDeCSharp/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.AssemblyInfo.cs
+/home/emmanuel/CosasDeCSharp/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.dll
+/home/emmanuel/CosasDeCSharp/EtapaUno/obj/Debug/netcoreapp2.1/EtapaUno.pdb

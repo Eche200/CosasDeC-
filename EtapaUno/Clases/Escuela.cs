@@ -28,6 +28,9 @@ class Escuela
         get;set;
     }
 
+	public Curso[] cursos { get; set; }
+
+
 
     public override string ToString(){
 
