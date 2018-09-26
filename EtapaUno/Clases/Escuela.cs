@@ -1,6 +1,8 @@
 
 
 
+using System.Collections.Generic;
+
 class Escuela
 {
 
@@ -28,8 +30,8 @@ class Escuela
         get;set;
     }
 
-	public Curso[] cursos { get; set; }
-
+	//public Curso[] cursos { get; set; }
+	public List<Curso> cursos { get; set; }
 
 
     public override string ToString(){

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace EtapaUno
 {
@@ -6,7 +7,8 @@ namespace EtapaUno
     {
 		static void Main(string[] args)
 		{
-            
+			/*
+             * array 
 			var escuelas = new Escuela();
 
 			escuelas.cursos = new Curso[] {
@@ -25,7 +27,37 @@ namespace EtapaUno
 			}
 
 
-            
+            */
+
+
+
+
+			/*
+             * arrayList/colecciones
+             */
+
+			var escuelas = new Escuela();
+			escuelas.cursos = new List<Curso>(){
+				new Curso(){nombreDelCurso = "programacion"},
+				new Curso(){nombreDelCurso = "programacion2"},
+				new Curso(){nombreDelCurso = "programacion3"}
+
+			};
+
+            // agrego cosas a un arraylist
+			escuelas.cursos.Add(new Curso() { nombreDelCurso = "carpinteria" });
+			// borro todo
+			//escuelas.cursos.Clear();
+
+            //asi borro un elemento de la lista , haciendo una consulta tna compleja como yo quiera con && o ||
+			escuelas.cursos.RemoveAll((cur) => cur.nombreDelCurso == "carpinteria");
+
+			foreach (var i in escuelas.cursos)
+            {
+                Console.WriteLine(i.nombreDelCurso + "\n");
+
+            }
+
 
         }
     }
