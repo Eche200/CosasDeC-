@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{EF7DC432-C61D-4953-93FF-B7AA08DFD9F2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App/EscuelaMotor.cs">
     <Files>
-      <File FileName="Program.cs" Line="9" Column="13" />
+      <File FileName="Program.cs" Line="28" Column="30" />
+      <File FileName="Clases/Escuela.cs" Line="6" Column="14" />
+      <File FileName="Clases/Curso.cs" Line="9" Column="2" />
       <File FileName="Clases/TiposDeEscuelas.cs" Line="1" Column="1" />
       <File FileName="Clases/TipoDeJornadas.cs" Line="1" Column="1" />
-      <File FileName="Clases/Escuela.cs" Line="31" Column="18" />
-      <File FileName="Clases/Curso.cs" Line="1" Column="1" />
+      <File FileName="App/EscuelaMotor.cs" Line="16" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

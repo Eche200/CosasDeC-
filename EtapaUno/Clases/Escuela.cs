@@ -3,7 +3,7 @@
 
 using System.Collections.Generic;
 
-class Escuela
+public class Escuela
 {
 
 

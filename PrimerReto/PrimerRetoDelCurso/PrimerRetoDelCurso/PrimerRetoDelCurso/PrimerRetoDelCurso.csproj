@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="App\" />
+    <Folder Include="Clases\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Clases\EmptyClass.cs" />
   </ItemGroup>
 </Project>

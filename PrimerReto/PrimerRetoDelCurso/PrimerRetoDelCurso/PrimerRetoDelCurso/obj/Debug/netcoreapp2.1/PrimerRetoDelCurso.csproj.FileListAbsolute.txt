@@ -1,0 +1,11 @@
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/bin/Debug/netcoreapp2.1/PrimerRetoDelCurso.deps.json
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/bin/Debug/netcoreapp2.1/PrimerRetoDelCurso.runtimeconfig.json
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/bin/Debug/netcoreapp2.1/PrimerRetoDelCurso.runtimeconfig.dev.json
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/bin/Debug/netcoreapp2.1/PrimerRetoDelCurso.dll
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/bin/Debug/netcoreapp2.1/PrimerRetoDelCurso.pdb
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/obj/Debug/netcoreapp2.1/PrimerRetoDelCurso.csprojResolveAssemblyReference.cache
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/obj/Debug/netcoreapp2.1/PrimerRetoDelCurso.csproj.CoreCompileInputs.cache
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/obj/Debug/netcoreapp2.1/PrimerRetoDelCurso.AssemblyInfoInputs.cache
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/obj/Debug/netcoreapp2.1/PrimerRetoDelCurso.AssemblyInfo.cs
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/obj/Debug/netcoreapp2.1/PrimerRetoDelCurso.dll
+/home/emmanuel/CosasDeCSharp/PrimerReto/PrimerRetoDelCurso/PrimerRetoDelCurso/PrimerRetoDelCurso/obj/Debug/netcoreapp2.1/PrimerRetoDelCurso.pdb
