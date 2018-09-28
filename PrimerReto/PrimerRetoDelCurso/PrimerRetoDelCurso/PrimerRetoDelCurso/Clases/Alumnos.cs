@@ -7,7 +7,9 @@ namespace PrimerRetoDelCurso.Clases
 
 		public string nombreDelAlumno{ get; set; }
 		public string apellidoDelAlumno{ get; set; }
-		public int numeroDeIdentificacion{ get; set; }
+		public int dniDelAlumno{ get; set; }
+
+
 
 
         public Alumnos()

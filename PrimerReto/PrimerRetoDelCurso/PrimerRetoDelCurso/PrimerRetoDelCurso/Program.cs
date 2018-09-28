@@ -7,9 +7,9 @@ namespace PrimerRetoDelCurso
     {
         static void Main(string[] args)
         {
-			var escuela = new Escuela();
+			var escuela = new Escuela("Normal 8", "San juan 2643");
 
-			escuela.showMenu();
+			escuela.showMenu(escuela);
         }
     }
 }

@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{062B3D19-D49D-4C60-BEFB-14B0319C67E9}|Default">
   <MonoDevelop.Ide.ItemProperties.PrimerRetoDelCurso PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PrimerRetoDelCurso/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimerRetoDelCurso/Clases/Cursos.cs">
     <Files>
-      <File FileName="PrimerRetoDelCurso/Program.cs" Line="12" Column="23" />
-      <File FileName="PrimerRetoDelCurso/Clases/Escuela.cs" Line="66" Column="36" />
-      <File FileName="PrimerRetoDelCurso/Clases/Cursos.cs" Line="8" Column="31" />
-      <File FileName="PrimerRetoDelCurso/Clases/Alumnos.cs" Line="10" Column="9" />
+      <File FileName="PrimerRetoDelCurso/Program.cs" Line="8" Column="35" />
+      <File FileName="PrimerRetoDelCurso/Clases/Escuela.cs" Line="105" Column="11" />
+      <File FileName="PrimerRetoDelCurso/Clases/Cursos.cs" Line="25" Column="3" />
+      <File FileName="PrimerRetoDelCurso/Clases/Alumnos.cs" Line="10" Column="14" />
       <File FileName="PrimerRetoDelCurso/Clases/Asignaturas.cs" Line="11" Column="9" />
       <File FileName="PrimerRetoDelCurso/Clases/Evaluaciones.cs" Line="9" Column="9" />
     </Files>
